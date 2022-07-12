@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "umhJad4c7KcQ3Jy0N/Fbc0Rz8zRWyUjZIo2V+8f20rK6/DeT1YwAPXemBGlHGjFR9Z2InOTI7O8w8pmUXcYw7w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\currency.marshallzehr\\currency.marshallzehr.data\\currency.marshallzehr.data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bkepti\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.business.deps.json
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.business.dll
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.business.pdb
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.data.dll
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.model.dll
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.data.pdb
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\bin\Debug\netcoreapp3.1\currency.marshallzehr.model.pdb
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.csproj.AssemblyReference.cache
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.AssemblyInfoInputs.cache
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.AssemblyInfo.cs
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.csproj.CoreCompileInputs.cache
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.csproj.CopyComplete
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.dll
+C:\Projects\currency.marshallzehr\currency.marshallzehr.business\obj\Debug\netcoreapp3.1\currency.marshallzehr.business.pdb
